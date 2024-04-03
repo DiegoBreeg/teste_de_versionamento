@@ -5,3 +5,7 @@ function fetchData(){
 function fetchPerfil(){
     console.log("Busca os dados solicitados")
 }
+
+function fetchComments(){
+    console.log("Busca os dados solicitados")
+}
